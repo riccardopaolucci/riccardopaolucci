@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riccardopaolucci
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in software engineering 
 - 📫 How to reach me riccardopaolucci42@gmail.com
 
 <!---
